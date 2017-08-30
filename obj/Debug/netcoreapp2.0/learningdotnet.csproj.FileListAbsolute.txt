@@ -1,0 +1,10 @@
+C:\Users\School\Desktop\code\junk\learningdotnet\bin\Debug\netcoreapp2.0\learningdotnet.deps.json
+C:\Users\School\Desktop\code\junk\learningdotnet\bin\Debug\netcoreapp2.0\learningdotnet.runtimeconfig.json
+C:\Users\School\Desktop\code\junk\learningdotnet\bin\Debug\netcoreapp2.0\learningdotnet.runtimeconfig.dev.json
+C:\Users\School\Desktop\code\junk\learningdotnet\bin\Debug\netcoreapp2.0\learningdotnet.dll
+C:\Users\School\Desktop\code\junk\learningdotnet\bin\Debug\netcoreapp2.0\learningdotnet.pdb
+C:\Users\School\Desktop\code\junk\learningdotnet\obj\Debug\netcoreapp2.0\learningdotnet.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\code\junk\learningdotnet\obj\Debug\netcoreapp2.0\learningdotnet.AssemblyInfoInputs.cache
+C:\Users\School\Desktop\code\junk\learningdotnet\obj\Debug\netcoreapp2.0\learningdotnet.AssemblyInfo.cs
+C:\Users\School\Desktop\code\junk\learningdotnet\obj\Debug\netcoreapp2.0\learningdotnet.dll
+C:\Users\School\Desktop\code\junk\learningdotnet\obj\Debug\netcoreapp2.0\learningdotnet.pdb
